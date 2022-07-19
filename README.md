@@ -16,6 +16,8 @@ yr, temp, season (spring), mnth (july & september), weathersit (good & bad)
 - Demand for boom bikes is expected to increase next year
 - rainy season sees a decline in demand
 - Demand increases when wheather is favorable for bike riders and declines in harsh weather situations.
+
+
 Recommendations:
 - More bikes to be kept available next year
 - Measures should be taken to improve business in spring and unfavorable weather e.g. Offering Discounts during these periods
