@@ -28,4 +28,4 @@ Code is written in Python.
 numpy, pandas, matplotlib, scikitlearn and seaborn libraries are used.
 
 ## Contact
-Created by RashmiSalankar
+Created by Rashmi Salankar
